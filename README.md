@@ -19,9 +19,9 @@
 
 ## 👩‍💻 Sobre mim
 
-Analista de dados com **6+ anos em instituições financeiras** (Itaú Unibanco, RCI Bank, Sicredi), especializada em construir soluções orientadas a dados que geram impacto comercial real.
+Analista de dados com **6+ anos de experiência** (Itaú Unibanco, RCI Bank, Sicredi), especializada em construir soluções orientadas a dados que geram impacto real.
 
-Minha trajetória combina sólida experiência em **analytics de crédito, CRM e performance comercial** com uma virada intencional para o universo técnico de **dados, automação e IA**. Pós-graduada em **Ciência de Dados e IA** (UNINTER) e MBA em **Finanças Corporativas** — acredito que a análise de dados é a ponte entre números e decisões que transformam negócios.
+Minha trajetória combina sólida experiência em **analytics, CRM e performance comercial**. Apaixonada por **dados, automação e IA**. Sou graduada em Administração de Empresas (PUCPR), Pós-graduada em **Ciência de Dados e IA** e MBA em **Finanças Corporativas** — acredito que a análise de dados é a ponte entre números e decisões que transformam negócios.
 
 ```python
 samela = {
