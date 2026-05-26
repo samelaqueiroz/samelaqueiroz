@@ -24,10 +24,7 @@ Analista de dados com ** + de 6 anos de atuação em Instituições Financeiras 
 Minha trajetória combina sólida experiência em **analytics, CRM e performance comercial**. Apaixonada por **dados, automação e IA**. Sou graduada em Administração de Empresas (PUCPR), Pós-graduada em **Ciência de Dados e IA** e MBA em **Finanças Corporativas** — acredito que a análise de dados é a ponte entre números e decisões que transformam negócios.
 
 ---
-
-## 🛠️ Stack Técnica
-
-**Linguagens & Análise**
+**🛠️Linguagens & Análise**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,7 +53,7 @@ Minha trajetória combina sólida experiência em **analytics, CRM e performance
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub
 
 <div align="center">
 
