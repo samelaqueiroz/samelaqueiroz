@@ -23,15 +23,6 @@ Analista de dados com ** + de 6 anos de atuação em Instituições Financeiras 
 
 Minha trajetória combina sólida experiência em **analytics, CRM e performance comercial**. Apaixonada por **dados, automação e IA**. Sou graduada em Administração de Empresas (PUCPR), Pós-graduada em **Ciência de Dados e IA** e MBA em **Finanças Corporativas** — acredito que a análise de dados é a ponte entre números e decisões que transformam negócios.
 
-```python
-samela = {
-    "foco_atual":    ["Data Analytics", "Automação com IA", "Python", "ETL & Pipelines"],
-    "setor":         "Serviços Financeiros & Tecnologia",
-    "diferenciais":  ["CRM Analytics", "Prompt Engineering", "LLMs", "Low-code/No-code"],
-    "idiomas":       ["Português 🇧🇷", "Inglês 🇺🇸", "Espanhol 🇪🇸"],
-}
-```
-
 ---
 
 ## 🛠️ Stack Técnica
@@ -82,23 +73,12 @@ samela = {
 
 ---
 
-## 🚀 Experiência em destaque
-
-| Período | Empresa | Papel |
-|---|---|---|
-| Fev 2026 – presente | **Q&S Technology** | Analista de Dados & Automação com IA |
-| Dez 2023 – Jun 2026 | **Sicredi Centro Sul PR/SC/RJ** | Gerente de Negócios II — CRM Analytics |
-| Ago 2022 – Dez 2023 | **Itaú Unibanco** | Analista de Performance Comercial |
-| Fev 2020 – Ago 2022 | **RCI Bank and Services** | Analista de CRM e Dados de Clientes |
-
----
-
 ## 🎓 Formação
 
 - 🎓 **Pós-graduação em Ciência de Dados e IA** — UNINTER (2023–2025)
 - 🎓 **MBA em Finanças Corporativas** — UniDomBosco (2020–2022)
 - 🎓 **Bacharelado em Administração** — PUCPR (2016–2020)
-- 📜 **Python Developer** — DSA (Data Science Academy)
+- 📜 **Python Developer** — Última School
 
 ---
 
