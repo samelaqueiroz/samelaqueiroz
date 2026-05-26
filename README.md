@@ -1,16 +1,120 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**samelaqueiroz/samelaqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00b4d8&height=200&section=header&text=Sâmela%20Queiroz&fontSize=42&fontColor=e0f7fa&fontAlignY=38&desc=Data%20Analytics%20·%20IA%20·%20SQL%20·%20Python%20·%20Power%20BI&descAlignY=58&descSize=16&descColor=90e0ef" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sameladaiane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameladaiane)
+[![GitHub](https://img.shields.io/badge/GitHub-samelaqueiroz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samelaqueiroz)
+[![Email](https://img.shields.io/badge/Email-samela--daiane%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:samela-daiane@hotmail.com)
+[![Localização](https://img.shields.io/badge/📍%20Irati-PR%2C%20Brasil-00b4d8?style=for-the-badge)](https://github.com/samelaqueiroz)
+
+</div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+Analista de dados com **6+ anos em instituições financeiras** (Itaú Unibanco, RCI Bank, Sicredi), especializada em construir soluções orientadas a dados que geram impacto comercial real.
+
+Minha trajetória combina sólida experiência em **analytics de crédito, CRM e performance comercial** com uma virada intencional para o universo técnico de **dados, automação e IA**. Pós-graduada em **Ciência de Dados e IA** (UNINTER) e MBA em **Finanças Corporativas** — acredito que a análise de dados é a ponte entre números e decisões que transformam negócios.
+
+```python
+samela = {
+    "foco_atual":    ["Data Analytics", "Automação com IA", "Python", "ETL & Pipelines"],
+    "setor":         "Serviços Financeiros & Tecnologia",
+    "diferenciais":  ["CRM Analytics", "Prompt Engineering", "LLMs", "Low-code/No-code"],
+    "idiomas":       ["Português 🇧🇷", "Inglês 🇺🇸", "Espanhol 🇪🇸"],
+}
+```
+
+---
+
+## 🛠️ Stack Técnica
+
+**Linguagens & Análise**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Visualização & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Dados, ETL & Automação**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**IA & LLMs**
+
+![OpenAI](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs_&_IA_Generativa-00b4d8?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=samelaqueiroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samelaqueiroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samelaqueiroz&theme=tokyonight&hide_border=true&locale=pt_BR)
+
+</div>
+
+---
+
+## 🚀 Experiência em destaque
+
+| Período | Empresa | Papel |
+|---|---|---|
+| Fev 2026 – presente | **Q&S Technology** | Analista de Dados & Automação com IA |
+| Dez 2023 – Jun 2026 | **Sicredi Centro Sul PR/SC/RJ** | Gerente de Negócios II — CRM Analytics |
+| Ago 2022 – Dez 2023 | **Itaú Unibanco** | Analista de Performance Comercial |
+| Fev 2020 – Ago 2022 | **RCI Bank and Services** | Analista de CRM e Dados de Clientes |
+
+---
+
+## 🎓 Formação
+
+- 🎓 **Pós-graduação em Ciência de Dados e IA** — UNINTER (2023–2025)
+- 🎓 **MBA em Finanças Corporativas** — UniDomBosco (2020–2022)
+- 🎓 **Bacharelado em Administração** — PUCPR (2016–2020)
+- 📜 **Python Developer** — DSA (Data Science Academy)
+
+---
+
+## 💡 Foco atual
+
+- 🔄 Construindo pipelines de dados com integração via **APIs REST**
+- 🤖 Aplicando **LLMs e Prompt Engineering** para automação de processos
+- 📊 Evoluindo em **Python para análise de dados** (Pandas, visualização, ML)
+- 🛠️ Explorando ferramentas de **orquestração e ETL** (n8n, Make, Supabase)
+
+---
+
+<div align="center">
+
+*"Dados bem analisados não apenas respondem perguntas — eles revelam as perguntas certas."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1a3a5c,100:0d1117&height=100&section=footer" />
+
+</div>
