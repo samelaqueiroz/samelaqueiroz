@@ -17,14 +17,14 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Analista de dados com **+ de 6 anos de atuação em Instituições Financeiras**, especializada em construir soluções orientadas para dados que geram impacto real.
 
 Minha trajetória combina experiência em **analytics, CRM e performance comercial**. Apaixonada por **dados, automação e IA**. Sou graduada em Administração de Empresas (PUCPR), Pós-graduada em **Ciência de Dados e IA** e MBA em **Finanças Corporativas** — acredito que a análise de dados é a ponte entre números e decisões que transformam negócios.
 
 ---
-**🛠️Linguagens & Análise**
+**Linguagens & Análise**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,7 +53,7 @@ Minha trajetória combina experiência em **analytics, CRM e performance comerci
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -70,21 +70,21 @@ Minha trajetória combina experiência em **analytics, CRM e performance comerci
 
 ---
 
-## 🎓 Formação
+## Formação
 
-- 🎓 **Pós-graduação em Ciência de Dados e IA** — UNINTER (2023–2025)
-- 🎓 **MBA em Finanças Corporativas** — UniDomBosco (2020–2022)
-- 🎓 **Bacharelado em Administração** — PUCPR (2016–2020)
-- 📜 **Python Developer** — Última School
+-  **Pós-graduação em Ciência de Dados e IA** — UNINTER (2023–2025)
+-  **MBA em Finanças Corporativas** — UniDomBosco (2020–2022)
+-  **Bacharelado em Administração** — PUCPR (2016–2020)
+-  **Python Developer** — Última School
 
 ---
 
-## 💡 Foco atual
+## Foco atual
 
-- 🔄 Construindo pipelines de dados com integração via **APIs REST**
-- 🤖 Aplicando **LLMs e Prompt Engineering** para automação de processos
-- 📊 Evoluindo em **Python para análise de dados** (Pandas, visualização, ML)
-- 🛠️ Explorando ferramentas de **orquestração e ETL** (n8n, Make, Supabase)
+-  Construindo pipelines de dados com integração via **APIs REST**
+-  Aplicando **LLMs e Prompt Engineering** para automação de processos
+-  Evoluindo em **Python para análise de dados** (Pandas, visualização, ML)
+-  Explorando ferramentas de **orquestração e ETL** (n8n, Make, Supabase)
 
 ---
 
