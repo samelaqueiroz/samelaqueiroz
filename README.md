@@ -21,7 +21,6 @@
 
 Analista de dados com experiência em instituições financeiras, focada em transformar dados em decisões de negócio através de BI, automação e machine learning.
 
----
 **Projetos em destaque**
 
 💳 Credit Analysis Dashboard — Streamlit + Plotly  
@@ -29,6 +28,19 @@ Analista de dados com experiência em instituições financeiras, focada em tran
 🏦 ETL Banco Central — Pipeline automatizado com Python + SQLite  
 
 ---
+
+## Atuação:
+
+Atuo na construção de soluções de dados de ponta a ponta, conectando análise, engenharia e produto:
+
+- Data Analytics com foco em geração de valor e apoio à decisão  
+- BI e dashboards interativos orientados a métricas de negócio  
+- Machine Learning aplicado a problemas reais (risco, comportamento e previsão)  
+- Engenharia de Dados leve: ETL, APIs REST e automação de pipelines  
+- Data Products: transformação de análises em soluções utilizáveis
+
+---
+
 **Linguagens & Análise**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -84,18 +96,9 @@ Analista de dados com experiência em instituições financeiras, focada em tran
 
 ---
 
-## Foco atual
-
--  Construindo pipelines de dados com integração via **APIs REST**
--  Aplicando **LLMs e Prompt Engineering** para automação de processos
--  Evoluindo em **Python para análise de dados** (Pandas, visualização, ML)
--  Explorando ferramentas de **orquestração e ETL** (n8n, Make, Supabase)
-
----
-
 <div align="center">
 
-*"Dados bem analisados não apenas respondem perguntas — eles revelam as perguntas certas."*
+*"Dados não apenas respondem perguntas — eles orientam decisões que geram impacto real no negócio."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1a3a5c,100:0d1117&height=100&section=footer" />
 
