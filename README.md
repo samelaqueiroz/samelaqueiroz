@@ -19,7 +19,7 @@
 
 ## Sobre mim
 
-Analista de dados com experiência em instituições financeiras, focada em transformar dados em decisões de negócio através de BI, automação e machine learning.
+Analista de negócios/dados com experiência em instituições financeiras, focada em transformar dados em decisões de negócio através de BI, automação e machine learning.
 
 **Projetos em destaque**
 
